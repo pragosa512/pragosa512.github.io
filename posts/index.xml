@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 19:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 23:30:24 +0000</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimo Teste Antes De Bazar</title>
+      <link>https://example.org/posts/ultimo-teste-antes-de-bazar/</link>
+      <pubDate>Tue, 12 Nov 2024 23:30:24 +0000</pubDate>
+      <guid>https://example.org/posts/ultimo-teste-antes-de-bazar/</guid>
+      <description>&lt;h1 id=&#34;ultimo-teste-antes-de-bazar&#34;&gt;Ultimo teste antes de bazar&lt;/h1&gt;&#xA;&lt;p&gt;Arroz feijao batata coentrao&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Nome&lt;/th&gt;&#xA;          &lt;th&gt;Alcunha&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;tosco:&lt;/td&gt;&#xA;          &lt;td&gt;:moises:&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;pica:&lt;/td&gt;&#xA;          &lt;td&gt;:jesus:&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;gasgo:&lt;/td&gt;&#xA;          &lt;td&gt;:suspeito:&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;// nem tudo do github fucniona&lt;/p&gt;&#xA;&lt;h2 id=&#34;riscado&#34;&gt;&lt;del&gt;riscado&lt;/del&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tropa&#34;&gt;tropa&lt;/h2&gt;&#xA;&lt;p&gt;chefao da favela&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;arroz&lt;/p&gt;&#xA;&lt;p&gt;int a = 1;&lt;br&gt;&#xA;while true{&lt;br&gt;&#xA;a++;&lt;br&gt;&#xA;return a;&lt;br&gt;&#xA;}&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Updated2</title>
       <link>https://example.org/posts/updated2/</link>
