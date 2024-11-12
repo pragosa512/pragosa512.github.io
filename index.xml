@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 15:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 19:35:36 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated2</title>
+      <link>https://example.org/posts/updated2/</link>
+      <pubDate>Tue, 12 Nov 2024 19:35:36 +0000</pubDate>
+      <guid>https://example.org/posts/updated2/</guid>
+      <description>&lt;h1 id=&#34;arroz-e-top&#34;&gt;arroz e top&lt;/h1&gt;&#xA;&lt;p&gt;##sao 19:36 e ainda nao jantei&lt;/p&gt;&#xA;&lt;p&gt;Ta &lt;strong&gt;foda&lt;/strong&gt; e top &lt;em&gt;xuxa&lt;/em&gt;&#xA;&lt;em&gt;&lt;strong&gt;xablau&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;irineu&lt;/p&gt;&#xA;&lt;p&gt;ce&lt;/p&gt;&#xA;&lt;p&gt;nao&lt;/p&gt;&#xA;&lt;p&gt;sabe&lt;/p&gt;&#xA;&lt;p&gt;nem&lt;/p&gt;&#xA;&lt;p&gt;eu&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>https://example.org/posts/first-post/</link>
