@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 15:56:29 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Tue, 12 Nov 2024 15:56:29 +0000</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;teste-do-site&#34;&gt;Teste do site&lt;/h1&gt;&#xA;&lt;h2 id=&#34;comboios-urbanos&#34;&gt;Comboios Urbanos&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://www.cp.pt/passageiros/pt&#34;&gt;CP Portugal&lt;/a&gt; esta sempre em greve.&#xA;Aqueles dreds nao fazem nada&lt;/p&gt;&#xA;&lt;p&gt;Arroz e bueda bom&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.org/&#34;&gt;&lt;img src=&#34;https://www.cp.pt/StaticFiles/CP/resources/images/cp_logo.png&#34; alt=&#34;cp foto&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;// esta cena funciona&#xA;int a = 0;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>
